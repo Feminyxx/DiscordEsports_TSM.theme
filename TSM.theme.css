@@ -3117,6 +3117,7 @@ div#bd-pub-button:hover {
     transition: all 200ms ease;
     box-shadow:0px 2px 3px rgba(0,0,0,0.3)
 }
+/*Added by Tamara | Nyxx*/
 @-webkit-keyframes mentionpulse {
     0% {
     box-shadow: 0 0 0 0 rgba(250,166,26, .23);
