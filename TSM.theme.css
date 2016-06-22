@@ -2112,7 +2112,7 @@ img.image {
     background: #057F95;
 }
 #pubs-container {
-    background-image: url("https://imgur.com/RG03PyX.png") !important;
+    background-image: url("https://i.imgur.com/sVc75eY.jpg") !important;
     transition: 0.3s all ease;
     background-size: cover !important;
 }
@@ -2524,7 +2524,7 @@ form.auth-form {
     color: #057F95;
 }
 .auth-background {
-    background-image: url("https://imgur.com/RG03PyX.png") !important;
+    background-image: url("https://i.imgur.com/sVc75eY.jpg") !important;
     background-size: cover !important;
 }
 .auth-copyright {
@@ -2726,7 +2726,7 @@ div#bd-customcss-innerpane {
 }
 .auth-tiling-bg {
     background-color: #2e3136;
-    background-image: url("https://imgur.com/RG03PyX.png") !important;
+    background-image: url("https://i.imgur.com/sVc75eY.jpg") !important;
 }
 .create-guild-container .action.create .action-icon, .create-guild-container .action.join .action-icon {
     -webkit-filter: invert() hue-rotate(145deg);
